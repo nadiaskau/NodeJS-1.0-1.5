@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-1.0-1.5",
+  "version": "1.0.0",
+  "description": "First node assignments",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadiaskau/NodeJS-1.0-1.5.git"
+  },
+  "author": "Nadia Skau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadiaskau/NodeJS-1.0-1.5/issues"
+  },
+  "homepage": "https://github.com/nadiaskau/NodeJS-1.0-1.5#readme",
+  "dependencies": {
+    "cities": "^2.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
